@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="string_metricSystem">Use metric system</string>
+    <string name="string_checkWeather">Check Weather!</string>
+    <string name="temperature">Temperature:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="weather">Weather:</string>
+</resources>

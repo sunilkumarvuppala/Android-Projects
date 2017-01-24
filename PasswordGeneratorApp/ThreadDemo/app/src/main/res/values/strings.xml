@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ThreadDemo</string>
+    <string name="select_length">Select Password Length</string>
+    <string name="string_numbers" />
+    <string name="string_number">Numbers</string>
+    <string name="string_upper">Uppercase Letters</string>
+    <string name="string_lower">Lowercase characters</string>
+    <string name="string_special">Special Characters</string>
+    <string name="pass_thread">Generate Password (Thread)</string>
+    <string name="pass_async">Generate Password (Async Task)</string>
+</resources>

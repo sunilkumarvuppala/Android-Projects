@@ -1,0 +1,55 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sunil.hw05.ComposeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="81dp"
+        android:layout_gravity="center_horizontal|top">
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="To"
+            android:id="@+id/textView"
+            android:gravity="center"
+            android:textColor="@color/abc_search_url_text_selected"
+            android:textSize="30dp" />
+
+        <Spinner
+            android:layout_width="203dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner"
+            android:gravity="center_horizontal|top"
+            android:textAlignment="gravity"
+            android:foregroundGravity="center_horizontal|top" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/imageView"
+            android:clickable="true"
+            android:layout_weight="0.07" />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send"
+        android:id="@+id/button_send"
+        android:layout_gravity="center_horizontal|bottom" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="344dp"
+        android:id="@+id/editText_message"
+        android:layout_gravity="center" />
+
+</FrameLayout>

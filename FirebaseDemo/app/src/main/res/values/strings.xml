@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="showOptions">Show Favourites</string>
+    <string name="showOptions2">Show All</string>
+</resources>

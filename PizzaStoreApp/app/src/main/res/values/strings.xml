@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pizza Store</string>
+    <string name="string_checkout">Check Out</string>
+    <string name="string_addtopping">Add Topping</string>
+    <string name="string_clearpizza">Clear Pizza</string>
+    <string name="String_load">Load Previous Order</string>
+    <string name="delivery">Delivery</string>
+    <string name="finish">Finish</string>
+    <string name="yourtotal">Your Total</string>
+</resources>

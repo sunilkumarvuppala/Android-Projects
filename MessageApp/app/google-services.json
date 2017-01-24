@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1038630192785",
+    "firebase_url": "https://hw05-9d0e9.firebaseio.com",
+    "project_id": "hw05-9d0e9",
+    "storage_bucket": "hw05-9d0e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038630192785:android:4d973ce8611ae520",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038630192785-2fbe6kf951egeebjqce107d9pdig971f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoVZPj179HLRYm6p2Kxnkh1KVOaJZtfno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038630192785:android:2e55fe5a05c3696e",
+        "android_client_info": {
+          "package_name": "com.example.sunil.hw05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038630192785-2fbe6kf951egeebjqce107d9pdig971f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoVZPj179HLRYm6p2Kxnkh1KVOaJZtfno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

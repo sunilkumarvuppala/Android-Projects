@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/overflow"
+        android:icon="@drawable/ic_action_overflow"
+        android:title="@string/showOptions"
+
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/overflow2"
+        android:icon="@drawable/ic_action_overflow"
+        android:title="@string/showOptions2"
+        android:showAsAction="ifRoom" />
+
+</menu>
